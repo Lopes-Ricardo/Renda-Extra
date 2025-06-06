@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ganhe Dinheiro Respondendo Pesquisas Online</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 text-gray-800">
+  <section class="bg-gradient-to-r from-purple-700 to-indigo-800 text-white p-10 text-center">
+    <h1 class="text-4xl font-bold mb-4">💸 Descubra Como Ganhar Dinheiro Respondendo Pesquisas Online</h1>
+    <p class="text-xl mb-6">Transforme seu tempo livre em <strong>renda extra diária</strong> — sem sair de casa!</p>
+    <a href="#formulario" class="bg-yellow-400 hover:bg-yellow-500 text-black font-bold py-3 px-6 rounded shadow-xl text-lg">Quero Começar Agora</a>
+  </section>
+
+  <section class="max-w-4xl mx-auto py-12 px-6">
+    <h2 class="text-3xl font-bold mb-4 text-center">🔑 Oportunidade Real. Resultados Comprovados.</h2>
+    <p class="text-lg text-center mb-8">Imagine acordar todos os dias com a tranquilidade de saber que pode gerar dinheiro com apenas alguns cliques... É isso que centenas de pessoas já estão fazendo com nosso método validado.</p>
+
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-6 text-center">
+      <div class="bg-white rounded-lg shadow-md p-6">
+        <h3 class="text-xl font-bold text-purple-700 mb-2">✅ Simples e Rápido</h3>
+        <p>Responda pesquisas no seu celular ou computador, em menos de 10 minutos.</p>
+      </div>
+      <div class="bg-white rounded-lg shadow-md p-6">
+        <h3 class="text-xl font-bold text-purple-700 mb-2">💰 Ganhos Diários</h3>
+        <p>Receba por cada pesquisa concluída. Algumas pessoas fazem mais de <strong>R$ 300/semana</strong>.</p>
+      </div>
+      <div class="bg-white rounded-lg shadow-md p-6">
+        <h3 class="text-xl font-bold text-purple-700 mb-2">📱 De Onde Estiver</h3>
+        <p>Trabalhe de casa, do ônibus, ou até mesmo enquanto espera na fila do banco.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="bg-indigo-700 text-white py-10">
+    <div class="max-w-3xl mx-auto text-center px-6">
+      <h2 class="text-3xl font-bold mb-4">🔒 Método Testado e Aprovado</h2>
+      <p class="text-lg mb-6">Mais de <strong>12.700 pessoas</strong> já começaram. Você será a próxima?</p>
+      <p class="italic mb-8">“Comecei achando que era impossível... Em menos de uma semana, já tinha feito R$ 150. Hoje é minha principal renda!” <br>— <strong>Camila, 29 anos</strong></p>
+    </div>
+  </section>
+
+  <section id="formulario" class="bg-white py-10 px-6">
+    <div class="max-w-xl mx-auto text-center">
+      <h2 class="text-2xl font-bold mb-4 text-gray-800">🎯 Dê o Primeiro Passo Agora</h2>
+      <p class="mb-6 text-lg">Preencha seus dados e receba acesso imediato ao nosso guia exclusivo gratuito para começar ainda hoje.</p>
+      <form class="space-y-4">
+        <input type="text" placeholder="Seu nome completo" class="w-full p-3 rounded border border-gray-300">
+        <input type="email" placeholder="Seu melhor e-mail" class="w-full p-3 rounded border border-gray-300">
+        <button type="submit" class="bg-purple-700 hover:bg-purple-800 text-white font-bold py-3 px-6 rounded shadow-xl w-full">Quero Começar Agora</button>
+      </form>
+      <p class="mt-4 text-sm text-gray-600">🔒 Suas informações estão seguras. Nunca enviamos spam.</p>
+    </div>
+  </section>
+
+  <footer class="bg-gray-200 text-center text-sm py-4">
+    &copy; 2025 RendaExtraFácil • Todos os direitos reservados
+  </footer>
+</body>
+</html>
